@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\hozn_\source\repos\balanced-parentheses\main.c(49,1): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  Stack.c
+  Generating Code...
+  balanced-parentheses.vcxproj -> C:\Users\hozn_\source\repos\balanced-parentheses\Debug\balanced-parentheses.exe
