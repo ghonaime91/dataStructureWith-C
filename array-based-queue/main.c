@@ -28,7 +28,7 @@ int main(void)
 	if (isEmpty(qPtr))
 		printf("the queue is empty\n");
 	else if(isFull(qPtr))
-		printf("the queue is empty\n");
+		printf("the queue is full\n");
 	else
 		printf("the queue size is %d\n",queueSize(qPtr));
 
